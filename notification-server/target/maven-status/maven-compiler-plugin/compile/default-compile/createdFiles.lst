@@ -1,0 +1,5 @@
+com\example\NotificationService.class
+com\example\NotificationServiceImpl.class
+com\example\ServerEventGenerator$1.class
+com\example\Activator.class
+com\example\ServerEventGenerator.class
